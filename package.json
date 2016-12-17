@@ -1,0 +1,22 @@
+{
+  "name": "testfolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omkarki123/testfolder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omkarki123/testfolder/issues"
+  },
+  "homepage": "https://github.com/Omkarki123/testfolder#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
